@@ -1,0 +1,26 @@
+[
+  {
+    "game": "Cyberpunk 2077",
+    "image": "assets/cyberpunk-gameplay.webp",
+    "source": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1091500/ss_ae4465fa8a44dd330dbeb7992ba196c2f32cabb1.1920x1080.jpg?t=1784714077",
+    "page": "https://store.steampowered.com/app/1091500/"
+  },
+  {
+    "game": "Forza Horizon 5",
+    "image": "assets/forza-gameplay.webp",
+    "source": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1551360/ss_00f0090174380eeaf8753bd3d1028b6772c3aebf.1920x1080.jpg?t=1788546569",
+    "page": "https://store.steampowered.com/app/1551360/"
+  },
+  {
+    "game": "Red Dead Redemption 2",
+    "image": "assets/reddead-gameplay.webp",
+    "source": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1174180/ss_66b553f4c209476d3e4ce25fa4714002cc914c4f.1920x1080.jpg?t=1759502961",
+    "page": "https://store.steampowered.com/app/1174180/"
+  },
+  {
+    "game": "Black Myth: Wukong",
+    "image": "assets/wukong-gameplay.webp",
+    "source": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2358720/ss_86c4b7462bba219a0d0b89931a35812b9f188976.1920x1080.jpg?t=1760601605",
+    "page": "https://store.steampowered.com/app/2358720/"
+  }
+]

@@ -1,0 +1,63 @@
+{
+  "checked": "2026-10-21",
+  "currency": "EUR",
+  "prices": {
+    "case": {
+      "paid": 79.95,
+      "reference": 194.9,
+      "seller": "Corsair France · boutique officielle",
+      "url": "https://www.corsair.com/fr/fr/p/pc-cases/cc-9011315-ww/frame-4500x-rs-r-argb-panoramic-glass-mid-tower-pc-case-white-cc-9011315-ww",
+      "type": "Prix boutique constructeur"
+    },
+    "cpu": {
+      "paid": 232.91,
+      "reference": 439.99,
+      "seller": "Darty · vendu par Darty",
+      "url": "https://www.darty.com/nav/achat/informatique/composant_informatique/processeur/amd_ryzen_7_7800x3d.html",
+      "type": "Prix de vente relevé"
+    },
+    "gpu": {
+      "paid": 831.93,
+      "reference": 1151.9,
+      "seller": "Darty Marketplace · Topbiz",
+      "url": "https://www.darty.com/nav/achat/ref/MC354651397.html",
+      "type": "Prix de vente relevé"
+    },
+    "motherboard": {
+      "paid": 137.99,
+      "reference": 160.64,
+      "seller": "Fnac Marketplace · Gpasplus",
+      "url": "https://www.fnac.com/ASUS-B650E-MAX-GAMING-WIFI-Carte-mere-ATX-Socket-AM5-AMD-B650-Chipset-USB-C-3-2-Gen2-USB-3-2-Gen-2-USB-3-2-Gen-1-2-5-Gigabit-LAN-Wi-Fi-6E-Bluetooth-carte-graphique-embarquee-unite-centrale-requise-audio-haute-definition-canal-7/a21856492/w-4",
+      "type": "Prix de vente relevé"
+    },
+    "cooler": {
+      "paid": 40.29,
+      "reference": 86.03,
+      "seller": "Galaxus France · sans LED",
+      "url": "https://www.galaxus.fr/fr/s1/product/thermalright-refroidisseur-phantom-spirit-120-se-amdintel-154-mm-ventirad-processeur-40274294",
+      "type": "Prix de vente relevé"
+    },
+    "ram": {
+      "paid": 389.99,
+      "reference": 680.16,
+      "seller": "Fnac Marketplace · 1foDiscount",
+      "url": "https://www.fnac.com/Crucial-Pro-Overclocking-Edition-DDR5-kit-32-Go-2-x-16-Go-DIMM-288-broches-6000-MT-s-PC5-48000-CL36-1-35-V-memoire-sans-tampon-noir/a21849342/w-4",
+      "type": "Prix de vente relevé"
+    },
+    "ssd": {
+      "paid": 224,
+      "reference": 259.95,
+      "seller": "Montant communiqué par Enzo",
+      "url": "",
+      "type": "Prix de comparaison",
+      "provenance": "user"
+    },
+    "psu": {
+      "paid": 84.99,
+      "reference": 129.99,
+      "seller": "Fnac · offre principale",
+      "url": "https://www.fnac.com/Alimentation-PC-modulaire-MSI-MAG-A750GLS-PCIE5-750W-80-PLUS-Gold-noir/a21867621/w-4",
+      "type": "Prix de vente relevé"
+    }
+  }
+}
